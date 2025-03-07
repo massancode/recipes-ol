@@ -12,7 +12,7 @@ Essência de baunilha a gosto
 Geleia de uva a gosto para decorar
 
 Modo de Preparo
-Bolo de uva
+Bolo de uvas
 
 1
 Em uma batedeira, bata as claras e o açúcar, até ficarem um creme branco e aerado.
