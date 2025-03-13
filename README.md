@@ -47,7 +47,7 @@ fermento em pó químico
 
 
 10,0 unidades médias de Morango
-0 fatias médias de Abacaxi
+1700 fatias médias de Abacaxi
 5 copos requeijão de Suco de laranja sem açúcar
  cubos de Gelo
 
