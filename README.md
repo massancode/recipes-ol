@@ -1,6 +1,7 @@
 # recipes-ol
  tasks-ol
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Ingredientes
 500 g de carne em tiras finas
 1 pitada de pimenta-do-reino
@@ -28,6 +29,9 @@ Modo de Preparo
 10.Adicione o purê de tomate, a mostarda e o ketchup à frigideira. Misture bem, tampe novamente e deixe cozinhar por 5 minutos em fogo baixo para que os sabores se integrem.
 11.Finalize adicionando o NESTLÉ® Creme de Leite. Mexa cuidadosamente até que o creme se misture completamente ao molho. Mantenha o fogo baixo e aqueça o strogonoff sem deixar ferver, para evitar que o creme talhe.
 sirva!
+=======
+
+>>>>>>> Stashed changes
 =======
 
 >>>>>>> Stashed changes
