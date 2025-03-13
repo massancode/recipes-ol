@@ -3,17 +3,26 @@
 
 
 
- 1 spaghetti squash
+ 1 pacote de macarrão tipo caracol cozido 'al dente'
+manteiga
+3 colheres de sopa de manteiga
+farinha de trigo
+1 colher e 1/2 de sopa de farinha de trigo
+leite integral
+2 xícaras de leite integral
+queijo cheddar
+10 fatias de queijo cheddar tipo sanduíche cortadas em tiras
+queijo parmesão
+queijo parmesão
+pimenta-do-reino
 
-¼ cup SCD yogurt
+Derreta a margarina e coloque a farinha sem parar de mexer.
 
-1 cup cheddar, shredded
+2
+Coloque o leite e em seguida o queijo mexendo sempre.
 
-½-1 tsp salt
-ok spaghetti squash in about ½ inch (1.3 cm) of water until tender.
-Carefully scrape the hot 'macaroni' into large bowl.
-Add yogurt and about half of the cheese and stir.
-If your macaroni has cooled down too much to melt the cheese, put in in the microwave to reheat just enough to melt the cheese.
-Continue adding and melting the cheese.
-Add salt to taste.
+3
+Quando engrossar coloque por cima do macarrão cozido.
 
+4
+Salpique parmesão e leve ao forno até gratinar.
