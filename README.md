@@ -1,6 +1,33 @@
 # recipes-ol
  tasks-ol
 
+mac-n-cheese
+
+
+ 1 pacote de macarrão tipo caracol cozido 'al dente'
+manteiga
+3 colheres de sopa de manteiga
+farinha de trigo
+1 colher e 1/2 de sopa de farinha de trigo
+leite integral
+2 xícaras de leite integral
+queijo cheddar
+10 fatias de queijo cheddar tipo sanduíche cortadas em tiras
+queijo parmesão
+queijo parmesão
+pimenta-do-reino
+
+Derreta a margarina e coloque a farinha sem parar de mexer.
+
+2
+Coloque o leite e em seguida o queijo mexendo sempre.
+
+3
+Quando engrossar coloque por cima do macarrão cozido.
+
+4
+Salpique parmesão e leve ao forno até gratinar.
+=======
 Ingredientes
 200 g de macarrão espaguete (ou outra massa longa de grano duro)
 ½ xícara (chá) de bacon em cubos (75 g)
@@ -20,3 +47,4 @@ Agora você vai precisar fazer tudo bem rapidinho: escorra a água, transfira o 
 DICA EXTRA!
 Se você é um cozinheiro de primeira viagem e ainda se sente um pouco inseguro para preparar esta receita, pode fazer uma temperagem dos ovos e gemas para garantir que não coagulem na frigideira.
 No passo 5 da receita: adicione uma concha da água quente do cozimento do macarrão à mistura de ovos, gemas e parmesão e misture bem. Em seguida, junte essa mistura ao macarrão na frigideira. 
+
