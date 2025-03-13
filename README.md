@@ -1,4 +1,5 @@
 # recipes-ol
+ panelada
  tasks-ol
 Ingredientes:
  ½ quilograma de bucho de boi limpo
@@ -22,3 +23,14 @@ Ingredientes:
 4 Numa outra panela grande em fogo médio, refogue a cebola até dourar. Depois acrescente os alhos e o pimentão, cozinhe um pouco sem deixar dourar, e acrescente o tomate.
 5 Quando o tomate estiver desfazendo, é hora de acrescentar a calabresa cortada em rodelas, as carnes e o caldo do cozimento. Tempere com sal, pimenta do reino e colorau, e cozinhe até ferver
 6 Finalmente sirva a panelada nordestina polvilhada com o cheiro verde e acompanhada de arroz branco. Experimente este prato típico do Nordeste e nos diga o que achou. Bom apetite!
+=======
+ suco-de-sapo-cururu
+
+
+10,0 unidades médias de Morango
+0 fatias médias de Abacaxi
+5 copos requeijão de Suco de laranja sem açúcar
+ cubos de Gelo
+
+ Coloque todos os ingredientes em um liquidificador  e bata.
+main
