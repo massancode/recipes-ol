@@ -33,9 +33,9 @@ MODO DE PREPARO
 2 - Juntar tudo em uma tigela pequena e misturar bem.
 3 - Espremer a laranja que sobrou por cima da salada de frutas e misturar novamente. Levar para gelar por alguns minutinhos antes de comer.
 
-bolo-de-uva
-Ingredientes
+
 Bolo de uva
+Ingredientes
 4 ovos
 2 xícaras de chá de açúcar
 2 xícaras de chá de farinha de trigo
