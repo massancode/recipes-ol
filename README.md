@@ -11,9 +11,9 @@ Lave muito bem a casca das batatas sob água corrente, esfregando uma escovinha 
 Descasque as batatas e coloque numa panela ou tigela com água (isso evita que as batatas oxidem e escureçam em contato com ar).
 Depois de descascadas, escolha a maneira que você quer cortá-las.O importante é que o corte seja uniforme.
 Coloque o óleo em uma panela de paredes altas e leve ao fogo para aquecer. Coloque um palito de fósforo no óleo para saber quando se ele está no ponto. Quando o palito ascender, retire-o da panela com uma escumadeira.Seque as batatas em um pano de prato limpo e coloque-as dentro da panela com óleo. Mexa ligeiramente para que elas não grudem. Em seguida, pare de mexer e deixe fritar.Coloque-as para escorrer em um prato forrado com papel-toalha. 
-=======
+
 pastel-de-frango
-Ingredientes----------
+Ingredientes
 
 Massa*
 1/2 kg de farinha de trigo
@@ -32,7 +32,7 @@ Sal, pimenta-do-reino
 Salsa picadinha
 100 g de muçarela ralada grossa
 
-Modo de Preparo----------
+Modo de Preparo
 
 Massa*
 
@@ -47,7 +47,7 @@ Doure a cebola e o alho no óleo, junte o tomate, o frango e sal e pimenta a gos
 Abra a massa com um rolo sobre uma superfície enfarinhada até ficar com cerca de 2 mm de espessura. Corte círculos com 8 cm de diâmetro, pincele a borda levemente com água, disponha uma porção de recheio e dobre ao meio para fechar o pastel. Pressione a borda com um garfo para unir bem.
 3
 Frite em óleo quente, poucos por vez, até que fiquem dourados. Deixe escorrer sobre papel absorvente e sirva quente.
-========
+
 Picolé
 Ingredientes:
 
@@ -132,5 +132,26 @@ fermento em pó químico
 
  Coloque todos os ingredientes em um liquidificador  e bata.
 
+pure-de-barata
+ 1 kg de batatas;
+
+1/2 xícara de leite (120 ml);
+
+4 colheres de sopa de manteiga;
+
+Sal a gosto;
+
+Pimenta-do-reino a gosto;
+
+Noz-moscada (opcional).
+
+Instruções
+Lave as batatas sob água corrente e descasque-as. Corte em pedaços uniformes para garantir um cozimento por igual;
+Coloque as batatas em uma panela grande com água fria salgada. Leve ao fogo médio e cozinhe até que estejam macias;
+
+Escorra as batatas e retorne-as para a panela ou utilize um espremedor de batatas para obter uma consistência mais fina;
+Evite usar processadores ou mixers para não deixar o purê gomoso. Tempere com sal, pimenta-do-reino e noz-moscada a gosto, misturando bem;
+Adicione a manteiga e misture até que esteja completamente derretida. Aos poucos, acrescente o leite aquecido, misturando bem após cada adição. Sirva quente!
 
 >
+ main
