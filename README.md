@@ -85,3 +85,23 @@ fermento em pó químico
 
  Coloque todos os ingredientes em um liquidificador  e bata.
 
+ 1 kg de batatas;
+
+1/2 xícara de leite (120 ml);
+
+4 colheres de sopa de manteiga;
+
+Sal a gosto;
+
+Pimenta-do-reino a gosto;
+
+Noz-moscada (opcional).
+
+Instruções
+Lave as batatas sob água corrente e descasque-as. Corte em pedaços uniformes para garantir um cozimento por igual;
+Coloque as batatas em uma panela grande com água fria salgada. Leve ao fogo médio e cozinhe até que estejam macias;
+
+Escorra as batatas e retorne-as para a panela ou utilize um espremedor de batatas para obter uma consistência mais fina;
+Evite usar processadores ou mixers para não deixar o purê gomoso. Tempere com sal, pimenta-do-reino e noz-moscada a gosto, misturando bem;
+Adicione a manteiga e misture até que esteja completamente derretida. Aos poucos, acrescente o leite aquecido, misturando bem após cada adição. Sirva quente!
+
